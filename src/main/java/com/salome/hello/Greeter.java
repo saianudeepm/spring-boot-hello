@@ -1,4 +1,4 @@
-package hello;
+package com.salome.hello;
 
 public class Greeter {
     public String sayHello() {
